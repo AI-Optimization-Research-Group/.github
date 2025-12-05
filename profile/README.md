@@ -53,9 +53,6 @@ Temel araştırmalardan endüstriyel uygulamalara kadar çeşitli projeler yür�
 > 🚀 **Katkıda bulunmak ister misiniz?**
 > Davranış kurallarımızı ve geliştirme standartlarımızı öğrenmek için lütfen **[CONTRIBUTING.md](https://github.com/AI-Optimisatin-Research-Group/.github/blob/main/CONTRIBUTING.md)** rehberimizi okuyun.
 
-### 👥 Çekirdek Ekip (Core Members)
-* **Muhammet Özdemir** - *Kurucu / Baş Araştırmacı*
-* **Melek Altun** - *Araştırmacı / Geliştirici*
 
 ---
 [⬆️ Yukarı Dön](#-ai-optimization-research-group)
