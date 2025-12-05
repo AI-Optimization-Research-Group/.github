@@ -1,29 +1,61 @@
-# AI Optimization Research Group
+<div align="center">
 
-**Yapay Zeka Sistemlerini Optimize Ederek Açık Kaynaklı Çözümler Geliştiriyoruz!**
+# 🤖 AI Optimization Research Group
 
-AI Optimization Research Group, yapay zeka ve makine öğrenimi sistemlerinin **performansını, verimliliğini ve kaynak kullanımını optimize etmeye** odaklanmış bir araştırma grubudur. Araştırmalarımızı ve geliştirdiğimiz araçları açık kaynak topluluğu ile paylaşarak bu alandaki bilgi birikimini artırmayı hedefliyoruz.
+**Optimizing AI Systems for the Open Source Community**
+<br>
+**Yapay Zeka Sistemlerini Açık Kaynak Topluluğu İçin Optimize Ediyoruz**
 
----
+[🇺🇸 English Version](#-english-version) | [🇹🇷 Türkçe Versiyon](#-türkçe-versiyon)
 
-## ✨ Temel Odak Alanlarımız
-
-* **AutoML (Otomatik Makine Öğrenimi):** Veri bilimcilerin model geliştirme sürecini otomatikleştirerek hızlandıran ve kolaylaştıran araçlar ve algoritmalar.
-* **AI Optimizasyon Sistemleri:** Derin öğrenme modelleri ve diğer AI sistemleri için;
-
----
-
-## 🛠️ Projelerimiz
-
-Organizasyonumuz, temel araştırma çıktılarımızdan endüstriyel uygulamalara kadar çeşitli projeler barındırmaktadır. Başlıca projelerimizi görmek için **'Repositories'** sekmesini ziyaret edebilirsiniz.
-
-> 💡 **Katkıda Bulunun:** Projelerimize katkıda bulunmak, fikirlerinizi paylaşmak veya yeni bir işbirliği başlatmak için her zaman açığız! Lütfen ilgili depolardaki `CONTRIBUTING.md` dosyasına göz atın.
+</div>
 
 ---
 
+<a name="english-version"></a>
+## 🇺🇸 English Version
 
-## 🌐 İletişim
+Welcome to the **AI Optimization Research Group**! We are a research and development group focused on improving the **performance, efficiency, and resource utilization** of Artificial Intelligence and Machine Learning systems. We aim to democratize high-performance AI tools by sharing our research with the open-source community.
 
-Sorularınız, işbirliği teklifleriniz veya sadece merhaba demek için bize ulaşmaktan çekinmeyin!
+### ✨ Focus Areas
+* **AutoML (Automated Machine Learning):** Tools and algorithms to automate the model development process for data scientists.
+* **AI Optimization Systems:**
 
-* [mr.ozdemir34@gmail.com]
+
+### 🛠️ Projects & Contribution
+We host various projects ranging from fundamental research to industrial applications. We are always open to new contributors!
+
+> 🚀 **Want to contribute?**
+> Please read our **[CONTRIBUTING.md](https://github.com/AI-Optimisatin-Research-Group/.github/blob/main/CONTRIBUTING.md)** guide to learn about our code of conduct and development standards.
+
+
+
+---
+[⬆️ Back to Top](#-ai-optimization-research-group)
+
+<br><br>
+
+---
+
+<a name="türkçe-versiyon"></a>
+## 🇹🇷 Türkçe Versiyon
+
+**AI Optimization Research Group** sayfasına hoş geldiniz! Biz, Yapay Zeka ve Makine Öğrenimi sistemlerinin **performansını, verimliliğini ve kaynak kullanımını optimize etmeye** odaklanmış bir AR-GE grubuyuz. Araştırmalarımızı açık kaynak topluluğu ile paylaşarak yüksek performanslı yapay zeka araçlarını herkes için erişilebilir kılmayı hedefliyoruz.
+
+### ✨ Odak Alanlarımız
+* **AutoML (Otomatik Makine Öğrenimi):** Veri bilimciler için model geliştirme sürecini otomatize eden araçlar ve algoritmalar.
+* **AI Optimizasyon Sistemleri:**
+
+
+### 🛠️ Projeler ve Katkı
+Temel araştırmalardan endüstriyel uygulamalara kadar çeşitli projeler yürütüyoruz. Yeni katkıcılara her zaman kapımız açık!
+
+> 🚀 **Katkıda bulunmak ister misiniz?**
+> Davranış kurallarımızı ve geliştirme standartlarımızı öğrenmek için lütfen **[CONTRIBUTING.md](https://github.com/AI-Optimisatin-Research-Group/.github/blob/main/CONTRIBUTING.md)** rehberimizi okuyun.
+
+### 👥 Çekirdek Ekip (Core Members)
+* **Muhammet Özdemir** - *Kurucu / Baş Araştırmacı*
+* **Melek Altun** - *Araştırmacı / Geliştirici*
+
+---
+[⬆️ Yukarı Dön](#-ai-optimization-research-group)
