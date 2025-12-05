@@ -26,7 +26,7 @@ Welcome to the **AI Optimization Research Group**! We are a research and develop
 We host various projects ranging from fundamental research to industrial applications. We are always open to new contributors!
 
 > 🚀 **Want to contribute?**
-> Please read our **[CONTRIBUTING.md](https://github.com/AI-Optimisatin-Research-Group/.github/blob/main/CONTRIBUTING.md)** guide to learn about our code of conduct and development standards.
+> Please read our **[CONTRIBUTING.md](https://github.com/AI-Optimization-Research-Group/.github/blob/main/CONTRIBUTING.md)** guide to learn about our code of conduct and development standards.
 
 
 
@@ -51,7 +51,7 @@ We host various projects ranging from fundamental research to industrial applica
 Temel araştırmalardan endüstriyel uygulamalara kadar çeşitli projeler yürütüyoruz. Yeni katkıcılara her zaman kapımız açık!
 
 > 🚀 **Katkıda bulunmak ister misiniz?**
-> Davranış kurallarımızı ve geliştirme standartlarımızı öğrenmek için lütfen **[CONTRIBUTING.md](https://github.com/AI-Optimisatin-Research-Group/.github/blob/main/CONTRIBUTING.md)** rehberimizi okuyun.
+> Davranış kurallarımızı ve geliştirme standartlarımızı öğrenmek için lütfen **[CONTRIBUTING.md](https://github.com/AI-Optimization-Research-Group/.github/blob/main/CONTRIBUTING.md)** rehberimizi okuyun.
 
 
 ---
