@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 AI Optimization Research Group
+# AI Optimization Research Group
 
 **Optimizing AI Systems for the Open Source Community**
 <br>
